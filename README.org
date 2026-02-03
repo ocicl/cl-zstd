@@ -1,9 +1,10 @@
 * cl-zstd
 
+Common Lisp bindings to Zstandard compression library
 
+|---------+---------------------------------------------|
+| source  | git:https://codeberg.org/glv/cl-zstd.git    |
+| commit  | b07c2d4                                     |
+| systems | cl-zstd                                     |
+|---------+---------------------------------------------|
 
-|---------+------------------------------------------|
-| source  | git:https://codeberg.org/glv/cl-zstd.git |
-| commit  | 2e45f40                                  |
-| systems | zstd                                     |
-|---------+------------------------------------------|
